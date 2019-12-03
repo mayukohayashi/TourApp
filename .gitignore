@@ -104,4 +104,4 @@ public
 
 config/secrets.yml
 
-.config.env
+config.env
