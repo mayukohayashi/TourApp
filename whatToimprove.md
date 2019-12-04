@@ -22,3 +22,8 @@
 ### On the user account page, impleent the "My reviews" page where all reviews are displayed and a user can edit them
   (if knoe React or so this would be an amazing way to use API and train)
 ### for administraors, impleent all the "Manage" pages, where they can CRUD tours, users, reviews and bookings
+
+## DEPLOY
+### DEPLOY in AWS
+### TEST with CI
+### check the stripe works. at the last
