@@ -1,0 +1,15 @@
+version: '3'
+services:
+    web:
+        image: tour-app
+        build: .
+        command: "node server.js"
+        ports:
+            - "3000:3000"
+        depends_on:
+            - "mongo"
+    mongo:
+        image: "mongo"
+        ports:
+            # check image documentation in docker hub
+
